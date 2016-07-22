@@ -18,6 +18,4 @@ This code is copyright Gareth Thomas http://www.Track-n-Test.com 2016
 
 ## Acknowledgments
 
-Udemy course
-
-https://www.udemy.com/get-started-with-bootstrap-how-to-make-websites-from-scratch/
+Custom code by Gareth Thomas
